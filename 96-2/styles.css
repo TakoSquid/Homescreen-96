@@ -9,6 +9,18 @@ header {
   text-align: center;
   vertical-align: middle;
   line-height: 46px;
+  color: #FFFFFF;
+
+  font-size: 1.75em;
+}
+
+#artist, #songTitle, #albumName {
+  font-style: italic;
+}
+
+#state {
+  text-transform: uppercase;
+  font-weight: bold;
 }
 
 body {
